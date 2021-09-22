@@ -25,23 +25,6 @@
 <br>
 <br>
 
-## Table of Contents
-
-- [Hardware](#hardware)
-- [Software](#software)
-  - [Operating systems](#operating-systems)
-  - [Programming Languages](#programming-languages)
-  - [Frameworks](#frameworks)
-  - [Middlewares](#middlewares)
-  - [Libraries and Tools](#libraries-and-tools)
-  - [Miscellaneous](#miscellaneous)
-- [Protocols and Networks](#protocols-and-networks)
-- [Technologies](#technologies)
-- [Standards and Alliances](#standards-and-alliances)
-- [Resources](#resources)
-  - [Books](#books)
-  - [Articles](#articles)
-  - [Papers](#papers)
 
 ### Hardware
 
